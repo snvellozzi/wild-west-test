@@ -1,1 +1,1 @@
-# wild-west-test
+# The Wild West Test
