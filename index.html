@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Wild West Test!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id ="container1">
+        <div id="start">Start The Wild West Test!</div>
+        <img id="mainImg" src="img/main.jpeg" alt="Backround image of a desert">
+        <div id="quiz" style = "display: none">
+            <button id="exit"></button>
+            <div id="question"></div>
+            <div id="image"></div>
+            <div id="answerChoices">
+                <div class="choice" id="A" onclick="checkAnswer('A')"></div>
+                <div class="choice" id="B" onclick="checkAnswer('B')"></div>
+                <div class="choice" id="C" onclick="checkAnswer('C')"></div>
+            </div>
+            <div id="timer">
+                <div id="counter"></div>
+                <div id="timeTracker2"></div>
+                <div id="timeTracker"></div>
+            </div>
+            <div id="progress"></div>
+        </div>
+        <div id="scoreHolder" style="display: none"></div>
+        <div id="gameOver" style="display: none"></div>
+        <button id="restart" style="display: none"></button>
+    </div>
+    <script src="quiz.js"></script>
+</body>
+</html>
