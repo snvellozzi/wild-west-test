@@ -1,14 +1,16 @@
 # The Wild West Test
 
 ## Our Mission
-The Wild West Test is our first hackathon project. It seeks to teach children word-picture association in combination with a fun Wild West theme!
+The Wild West Test is our first hackathon project. It is a game that seeks to teach children word-picture association by using a fun Wild West theme!
 
-## Special Features Added
+## Cool Features
 * Hand-drawn images
 * Timer
-* Score counter
+* Score/progress counter
+
+## Demonstration
+![The Wild West Test Demo](demo/demo.gif)
 
 ## How to Use
 * Download the files
 * Open the HTML file in your browser & enjoy!
-
