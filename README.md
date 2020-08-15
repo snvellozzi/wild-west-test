@@ -9,7 +9,7 @@ The Wild West Test is our first hackathon project. It is a game that seeks to te
 * Score/progress counter
 
 ## Demonstration
-![The Wild West Test Demo](demo/demo.gif)
+![The Wild West Test Demo](demo/demo1.gif)
 
 ## How to Use
 * Download the files
