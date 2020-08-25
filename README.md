@@ -7,6 +7,7 @@ The Wild West Test is our first hackathon project. It is a game that seeks to te
 * Hand-drawn images
 * Timer
 * Score/progress counter
+* See more at https://devpost.com/software/the-wild-west-test
 
 ## Demonstration
 ![The Wild West Test Demo](demo/demo1.gif)
